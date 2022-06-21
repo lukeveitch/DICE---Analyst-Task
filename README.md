@@ -2,4 +2,4 @@
 
 Luke Veitch data analyst submission.
 
-Focus on python and SQL to drill down into the retention of users given two months of data.
+Focus on python and SQL to drill down into the retention of users given two months of data. All credentials placed into environment variables for security. 
